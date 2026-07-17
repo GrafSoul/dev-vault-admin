@@ -12,7 +12,7 @@ dist
 dist-ssr
 *.local
 
-# env: рабочий .env не коммитим, шаблон .env.example — коммитим
+# env: don't commit the working .env, commit the .env.example template
 .env
 
 # Editor directories and files
