@@ -1,0 +1,8 @@
+# keep needless files out of the image — faster build, smaller size
+node_modules
+dist
+.git
+.env
+*.log
+Dockerfile
+docker-compose.yml
