@@ -1,4 +1,4 @@
-# dev-vault-client
+# dev-vault-admin
 
 Frontend for **dev-vault** — a React + TypeScript single-page app built with Vite.
 Talks to the `dev-vault-server` API (default `http://localhost:3030`).
